@@ -6748,6 +6748,23 @@ header {
         color: #ccc;
     }
 
+    .contact-list a {
+        color: #363636;
+        text-decoration: none;
+    }
+
+
+.alert-success {
+    color: #777;
+    background: #ededed;
+    border-color: #31708f;
+}
+
+.alert-tic {
+    color: #3c763d;
+}
+
+
 .media {
     background: #ededed;
     padding: 10px;
